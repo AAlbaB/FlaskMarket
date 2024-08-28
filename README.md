@@ -7,8 +7,10 @@
 2. Activar ambiente virtual: `source .venv/bin/activate`
 3. Validar en la consola que se tiene activo el ambiente virtual, para desactivar env: `deactivate`
 4. Instalar requirements: `python3 -m pip install -r requirements.txt`
-5. Colocar la variable de entorno: `export FLASK_APP=market.py` y para hacer cambios sin reiniciar el servicio: `export FLASK_DEBUG=1`
+5. Colocar la variable de entorno: `export FLASK_APP=market.py` y para hacer cambios sin reiniciar el servicio: `export FLASK_DEBUG=1` (Puede que se tenga que volver a crear la variable de entorno)
 6. Correr aplicación: `flask run`
 
 ## Comando utiles Linux:
 - Para ver variables de entorno: `printenv | less` y `printenv HOME`
+
+Quede en: P5 Models and Database
