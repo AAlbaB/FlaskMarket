@@ -12,4 +12,4 @@
 ## Comando utiles Linux:
 - Para ver variables de entorno: `printenv | less` y `printenv HOME`
 
-Quede en: P12 - User Authentication Part 2
+Quede en: P13 - Logout and customizations
